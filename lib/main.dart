@@ -552,7 +552,7 @@ class _PortfolioMainPageState extends State<PortfolioMainPage> {
       children: [
         buildSectionTitle("About Me"),
         const SizedBox(height: 28),
-        buildInfoRow("Full Name", "Rhea Nicole Boloabio Linobo"),
+        buildInfoRow("Full Name", "Rhea Nicole B. Linobo"),
         buildInfoRow("Age", "21 years old"),
         buildInfoRow("Sex", "Female"),
         buildInfoRow("Birthday", "December 29, 2004"),
